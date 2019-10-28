@@ -7,8 +7,8 @@ This is the code for [this](https://youtu.be/Oex0eWoU7AQ) video on Youtube by Si
 
 ##Dependencies
 
-* tensorflow 
-* matplotlib 
+* tensorflow
+* matplotlib
 * python 3
 
 Use [pip](https://pip.pypa.io/en/stable/installing/) to install missing dependencies
@@ -22,3 +22,15 @@ Run `jupyter notebook` in the top level directory and the code will pop up in yo
 
 The credits for this code go to [Aniruddha-Tapas](https://github.com/Aniruddha-Tapas). I've merely created a wrapper to get people started.
 
+
+##Raghavan - HKN TODO
+* Install Anaconda and Jupyter notebook
+* Install tensorflow version 1.13.1
+    * conda create -n tf tensorflow
+    * conda activate tf
+    * pip install --upgrade tensorflow==1.13.1
+* Install matplotlib
+    * pip install matplotlib
+* Install Pillow
+    * pip install Pillow
+* Good to go!
